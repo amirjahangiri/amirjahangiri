@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-🌍 I'm based in Iran.
 ✉️ You can contact me at amh.jahangiri@gmail.com
 - 🔭 I’m currently working on T-PlatForm
 <!-- - 🌱 I’m currently learning ... -->
